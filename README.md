@@ -15,15 +15,15 @@ A comprehensive data analysis and business intelligence project focused on track
 - **Power BI / Tableau:** For data modeling, building interactive visuals, and designing an executive-level reporting interface.
 
 # Dashboard Preview
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-### 1. Executive Summary
+### 1. Dashboard
 ![Preview 1](Preview1.png)
 
-### 2. Regional Sales Performance
+### 2.Product Performance
 ![Preview 2](Preview2.png)
 
-### 3. Product & Inventory Deep Dive
+### 3. Chart Close up
 ![Preview 3](Preview3.png)
 
 # Project Structure
